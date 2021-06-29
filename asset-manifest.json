@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simple-voting-contract/static/css/main.4f552248.chunk.css",
+    "main.js": "/simple-voting-contract/static/js/main.8fb3cd14.chunk.js",
+    "main.js.map": "/simple-voting-contract/static/js/main.8fb3cd14.chunk.js.map",
+    "runtime-main.js": "/simple-voting-contract/static/js/runtime-main.8a8ec460.js",
+    "runtime-main.js.map": "/simple-voting-contract/static/js/runtime-main.8a8ec460.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/simple-voting-contract/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.e52e6424.chunk.js": "/simple-voting-contract/static/js/2.e52e6424.chunk.js",
+    "static/js/2.e52e6424.chunk.js.map": "/simple-voting-contract/static/js/2.e52e6424.chunk.js.map",
+    "index.html": "/simple-voting-contract/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/simple-voting-contract/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.4f552248.chunk.css.map": "/simple-voting-contract/static/css/main.4f552248.chunk.css.map",
+    "static/js/2.e52e6424.chunk.js.LICENSE.txt": "/simple-voting-contract/static/js/2.e52e6424.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a8ec460.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.e52e6424.chunk.js",
+    "static/css/main.4f552248.chunk.css",
+    "static/js/main.8fb3cd14.chunk.js"
+  ]
+}
