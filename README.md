@@ -3,6 +3,8 @@
 - Only the "registered voters" can vote.
 - Voters can vote 1 time.
 
+# Deployed a Simple Dapp
+- [https://korakrit-c.github.io/simple-voting-contract/](https://korakrit-c.github.io/simple-voting-contract/)
 
 # Deployed Contracts
 |Contract|Description|Address|
